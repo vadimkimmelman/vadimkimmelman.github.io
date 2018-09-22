@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![photo](img/pasfoto.jpg)
+<!---![photo](img/pasfoto.jpg)--->
 
 
 # About me 
