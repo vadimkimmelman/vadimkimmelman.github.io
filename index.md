@@ -9,9 +9,9 @@ layout: home
 
 I am a linguist working primarily on the grammar of sign languages, specifically Russian Sign Language (RSL) and Sign Language of the Netherlands (NGT). I am most interested in the question to what extent sign languages are similar to and different from spoken languages, that is, in the effects of modality. 
 
-Currently I am a postdoctoral researcher at the University of Amsterdam.
+Currently I am a postdoctoral researcher at the University of Amsterdam (ACLC).
 
-On this website, you can find a description of my research projects, as well as almost all my presentations and publications.
+On this website, you can find a description of my research projects, and my presentations and publications (with pdfs).
 
 
 # Contact information 
@@ -28,3 +28,9 @@ the Netherlands
 # CV
 
 Donwload my [CV](cv kimmelman.pdf) here. 
+
+<br>
+
+-----
+
+<br> 
