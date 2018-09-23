@@ -4,4 +4,4 @@ title:  "What will be here"
 date:   2018-09-20 15:17:41 +0200
 ---
 
-I am not sure I need the blog functionality provided by the template that I used. I might use it to announce upcoming presentations and new publications, but I am do not know whether this will happen. 
+I am not sure I need the blog functionality provided by the template that I used. I might use it to announce upcoming presentations and new publications, but I do not know whether this will happen. 

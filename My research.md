@@ -12,7 +12,13 @@ We are investigating argument structure of verbs in three different sign languag
 
 <br>
 
-# Information Structure in RSL and NGT
+# Quotation in Russian Sign Language
+
+As a part of a larger project funded by the Russian Science Foundation, I am investigating quotation in Russian Sign Language, in collaboration with Evgeniia Khristoforova. It has been claimed that when a signer wants quote someone else, they would lean or turn to take the role of the other person, which is known as role shift. We looked at quotations in the corpus and found that this is also the case for Russian Sign Language, but also that role shift is far from obligatory in marking quotation (read about it [here](\papers/Khristoforova Kimmelman 2018 role shift dialog.pdf)). Using elicitation (that is, asking native signers for judgments) we also discussed how role shift is related to the notions of direct vs. indirect speech, and found again that the relation is not straightforward (link to appear). 
+
+<br> 
+
+# Information Structure in sign languages
 
 For my PhD project, I analysed how information structure is expressed in two sign languages: RSL and NGT. Specifically, I argued that topic is marked in a variety of ways in both sign languages, but that they still cannot be considered topic-prominent, and that focus in these languages is expressed primarily by manual prosody (see my [dissertation](https://pure.uva.nl/ws/files/2440518/152471_Thesis.pdf) for details).  For a general overview of information structure in sign languages, see [this](\papers/Kimmelman Pfau 2016 IS in SL.pdf) chapter written in collaboration with Roland Pfau. 
 

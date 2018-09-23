@@ -18,6 +18,8 @@ Kimmelman, V. (accepted). Impersonal reference in Russian Sign Language. To appe
 
 Kimmelman, V., M. Kyuseva, Y. Lomakina & D. Perova (2018). On the notion of metaphor in sign languages: some observations based on Russian Sign Language. *Sign Language and Linguistics 20* (2), 157-182. <http://dx.doi.org/10.1075/sll.00001.kim> [[pdf]](\papers/Kimmelman et al 2018 metaphor.pdf)
 
+Khristoforova, E. & V. Kimmelman (2018). Corpus-based investigation of quotation in Russian Sign Language. *Computational Linguistics and Intellectual Technologies: Papers from the Annual International Conference “Dialogue 2018”*, vol. 17 (pp: 294-305), Moscow: RSUH. Available [online](http://www.dialog-21.ru/media/4303/khristoforovaea_kimmelmanvi.pdf).
+
 Kimmelman, V. (2018). Null arguments in Russian Sign Language. *FEAST*
 1, 27-38. <https://doi.org/10.2436/20.8050.03.3> (open access)
 
