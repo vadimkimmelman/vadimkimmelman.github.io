@@ -2,6 +2,7 @@
 layout: page
 title: Presentations
 permalink: /presentations/
+navigation_weight: 4
 ---
 
 Only selected recent peer-reviewed presentations are listed.
