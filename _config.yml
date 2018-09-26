@@ -7,6 +7,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  vadimkimmelman
 
+header_pages:
+    - My research.md
+    - Publications.md
+    - Presentations.md
+    - Русская версия.md
 # Build settings
 markdown: kramdown
 theme: minima

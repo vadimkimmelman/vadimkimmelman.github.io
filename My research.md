@@ -2,7 +2,6 @@
 layout: page
 title: Research
 permalink: /research/
-navigation_weight: 2
 ---
 
 # Argument structure in three sign languages
