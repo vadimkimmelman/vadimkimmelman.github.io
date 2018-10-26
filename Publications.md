@@ -6,15 +6,18 @@ permalink: /publications/
 
 # To appear
 
-Kimmelman, V. (accepted). *Information Structure in Sign Languages.* to appear in Sign Language and Deaf Community series, De Gruyter Mouton.
+Kimmelman, V. (2019). *Information Structure in Sign Languages.* to appear in Sign Language and Deaf Community series. Berlin: De Gruyter Mouton.
 
-Kimmelman, V. (accepted). Reduplication and repetition in Russian Sign Language. In *Proceedings of Workshop on Total Reduplication.*
 
 Kimmelman, V. (accepted) Basic argument structure in Russian Sign Language. *Glossa*.
 
 Kimmelman, V. (accepted). Impersonal reference in Russian Sign Language. To appear in *Sign Language and Linguistics*. 
 
+Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (accepted). Time-related signs in Russian Sign Language, to appear in *Sign Language Studies*.
+
 # 2018 
+
+Kimmelman, V. (2018). Reduplication and repetition in Russian Sign Language. R. Finkbeiner, U. Freywald (eds.), *Exact Repetition in Grammar and Discourse* (pp. 91–109). Berlin: De Gruyter. <https://doi.org/10.1515/9783110592498-004>
 
 Kimmelman, V., M. Kyuseva, Y. Lomakina & D. Perova (2018). On the notion of metaphor in sign languages: some observations based on Russian Sign Language. *Sign Language and Linguistics 20* (2), 157-182. <http://dx.doi.org/10.1075/sll.00001.kim> [[pdf]](\papers/Kimmelman et al 2018 metaphor.pdf)
 
