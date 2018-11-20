@@ -10,9 +10,11 @@ If you want a .pdf of the slides or posters, please send me an email.
 
 # Upcoming 
 
-Oomen, M. & V. Kimmelman (2018) An agreement analysis of body-anchored verb constructions. *NELS 2018*, Ithaca, October 5-7. 
+Kimmelman, V., A. Klezovich & G. Moroz (2019). Quantitative analysis of iconicity in sign languages. *DGFS 41*, Leipzig, March 6-8. 
 
 # 2018 
+
+Oomen, M. & V. Kimmelman (2018) An agreement analysis of body-anchored verb constructions. *NELS 2018*, Ithaca, October 5-7. 
 
 Oomen, M. & V. Kimmelman (2018) Iconically motivated subject drop in two sign languages. *SWL 2018*, Paris, September 3-5. 
 

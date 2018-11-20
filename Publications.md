@@ -8,14 +8,14 @@ permalink: /publications/
 
 Kimmelman, V. (2019). *Information Structure in Sign Languages.* to appear in Sign Language and Deaf Community series. Berlin: De Gruyter Mouton.
 
-
-Kimmelman, V. (accepted) Basic argument structure in Russian Sign Language. *Glossa*.
-
 Kimmelman, V. (accepted). Impersonal reference in Russian Sign Language. To appear in *Sign Language and Linguistics*. 
 
 Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (accepted). Time-related signs in Russian Sign Language, to appear in *Sign Language Studies*.
 
 # 2018 
+
+Kimmelman, V. (2018) Basic argument structure in Russian Sign Language. Basic argument structure in Russian Sign Language. *Glossa: A Journal of General Linguistics*, 3(1), 116. DOI: <http://doi.org/10.5334/gjgl.494>. (open access)
+
 
 Kimmelman, V. (2018). Reduplication and repetition in Russian Sign Language. R. Finkbeiner, U. Freywald (eds.), *Exact Repetition in Grammar and Discourse* (pp. 91–109). Berlin: De Gruyter. <https://doi.org/10.1515/9783110592498-004> [[preprint pdf]](\papers/Kimmelman2018repetition-preprint.pdf).
 
