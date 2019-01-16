@@ -5,7 +5,7 @@ navigation_weight: 1
 
 <img style="float:left;" src="img/pasfoto.jpeg" hspace="20">
 
-Associate Professor \\
+Associate Professor\\
 Department of Linguistic, Literary and Aesthetic Studies \\
 University of Bergen 
 
