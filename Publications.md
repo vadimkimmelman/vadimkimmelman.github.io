@@ -45,6 +45,16 @@ Kimmelman, V. & L. Vink (2017). Question-answer pairs in Sign Language of the Ne
 
 Kimmelman, V. (2017). Quantifiers in Russian Sign Language. In Keenan, E., & D. Paperno (eds.), *Handbook of Quantifiers in Natural Languages, volume II* (pp: 803-855). Springer. [[pdf]](\papers/Kimmelman 2017 Quantifiers in RSL.pdf)
 
+Kimmelman, V. & M. Steinbach. (2017). Evidentiality. In Quer, J., C. Cecchetto, C. Donati, C. Geraci, M. Kelepir, R. Pfau, M. Steinbach (eds.), *SignGram Blueprint* (pp: 575-583). De Guyter Mouton. [Open access](https://www.degruyter.com/viewbooktoc/product/467598).
+
+Kimmelman, V. & M. Steinbach. (2017). Reference tracking. In Quer, J., C. Cecchetto, C. Donati, C. Geraci, M. Kelepir, R. Pfau, M. Steinbach (eds.), *SignGram Blueprint* (pp: 683-691). De Guyter Mouton. [Open access](https://www.degruyter.com/viewbooktoc/product/467598).
+
+Barberà, G., V. Kimmelman, &M. Steinbach. (2017). Expressive meaning. In Quer, J., C. Cecchetto, C. Donati, C. Geraci, M. Kelepir, R. Pfau, M. Steinbach (eds.), *SignGram Blueprint* (pp: 736-744). De Guyter Mouton. [Open access](https://www.degruyter.com/viewbooktoc/product/467598).
+
+Barberà, G. & V. Kimmelman (2017). Signing space. In Quer, J., C. Cecchetto, C. Donati, C. Geraci, M. Kelepir, R. Pfau, M. Steinbach (eds.), *SignGram Blueprint* (pp: 745-758). De Guyter Mouton. [Open access](https://www.degruyter.com/viewbooktoc/product/467598).
+
+Kimmelman, V. (2017). Figurative meaning. In Quer, J., C. Cecchetto, C. Donati, C. Geraci, M. Kelepir, R. Pfau, M. Steinbach (eds.), *SignGram Blueprint* (pp: 759-765). De Guyter Mouton. [Open access](https://www.degruyter.com/viewbooktoc/product/467598).
+
 Kimmelman, V. (2017). Linearization of weak hand holds in Russian Sign Language. *Linguistics in Amsterdam 10*(1), 28-59. [[pdf]](\papers/Kimmelman 2017 whh LiA.pdf)
 
 # 2016 
