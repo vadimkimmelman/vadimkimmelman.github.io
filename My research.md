@@ -6,9 +6,9 @@ permalink: /research/
 
 # Argument structure in three sign languages
 
-Currently, I am a postdoctoral researcher in the project "Argument structure in three sign languages: typological and theoretical aspects". This 4-year project, funded by the Dutch Science Foundation (NWO 360-70-520), and headed by dr. Roland Pfau and prof. dr. Enoch O. Aboh; two PhD students (Marloes Oomen and Vanja de Lint) also work on this project. 
+In 2015-2018, I was a postdoctoral researcher in the project "Argument structure in three sign languages: typological and theoretical aspects". This was a 4-year project, funded by the Dutch Science Foundation (NWO 360-70-520), and headed by dr. Roland Pfau and prof. dr. Enoch O. Aboh; two PhD students (Marloes Oomen and Vanja de Lint) also work on this project. 
 
-We are investigating argument structure of verbs in three different sign languages to compare them to argument structure described for spoken languages. For instance, we found that transitivity of verbs in the corpus of Russian Sign Language reflects the cross-linguistically based transitivity hierarchy rather well (read it [here](\papers/Kimmelman 2016 transitivity-in-RSL.pdf)); the same is true for German Sign Language and Sign Language of the Netherlands. Furthermore, Russian Sign Language uses a number of argument structure alternations, including impersonal alternation, in a way similar to spoken languages (link to appear) On the other hand, we also discovered that classifier predicates, which is a very common construction in various sign languages, have complex event and argument structures, probably extending beyond what is found in lexical verbs in spoken languages (link to appear). 
+We are investigating argument structure of verbs in three different sign languages to compare them to argument structure described for spoken languages. For instance, we found that transitivity of verbs in the corpus of Russian Sign Language reflects the cross-linguistically based transitivity hierarchy rather well (read it [here](\papers/Kimmelman 2016 transitivity-in-RSL.pdf)); the same is true for German Sign Language and Sign Language of the Netherlands. Furthermore, Russian Sign Language uses a number of argument structure alternations, including impersonal alternation, in a way similar to spoken languages (link TBA) On the other hand, we also discovered that classifier predicates, which is a very common construction in various sign languages, have complex event and argument structures, probably extending beyond what is found in lexical verbs in spoken languages (link to TBA). 
 
 <br>
 
@@ -18,7 +18,7 @@ As a part of a larger project funded by the Russian Science Foundation, I am inv
 
 <br> 
 
-# Information Structure in sign languages
+# Information structure in sign languages
 
 For my PhD project, I analysed how information structure is expressed in two sign languages: RSL and NGT. Specifically, I argued that topic is marked in a variety of ways in both sign languages, but that they still cannot be considered topic-prominent, and that focus in these languages is expressed primarily by manual prosody (see my [dissertation](https://pure.uva.nl/ws/files/2440518/152471_Thesis.pdf) for details).  For a general overview of information structure in sign languages, see [this](\papers/Kimmelman Pfau 2016 IS in SL.pdf) chapter written in collaboration with Roland Pfau. 
 
