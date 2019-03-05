@@ -14,6 +14,8 @@ Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (accepted). 
 
 # 2019
 
+<img style="float:left;" src="img/book.jpg" hspace="20">
+
 Kimmelman, V. (2019). *Information Structure in Sign Languages.* Sign Language and Deaf Community series. Berlin: De Gruyter Mouton. See the book [here](https://www.degruyter.com/view/product/505396). 
 
 # 2018 
