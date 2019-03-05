@@ -6,13 +6,15 @@ permalink: /publications/
 
 # To appear
 
-Kimmelman, V. (2019). *Information Structure in Sign Languages.* to appear in Sign Language and Deaf Community series. Berlin: De Gruyter Mouton.
-
 Oomen, M. & V. Kimmelman (accepted). Body-anchored verbs and argument omission in two sign languages. To appear in *Glossa*. 
 
 Kimmelman, V. (accepted). Impersonal reference in Russian Sign Language. To appear in *Sign Language and Linguistics*. 
 
 Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (accepted). Time-related signs in Russian Sign Language. To appear in *Sign Language Studies*.
+
+# 2019
+
+Kimmelman, V. (2019). *Information Structure in Sign Languages.* Sign Language and Deaf Community series. Berlin: De Gruyter Mouton. See the book [here](https://www.degruyter.com/view/product/505396). 
 
 # 2018 
 
