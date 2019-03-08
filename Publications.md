@@ -6,6 +6,8 @@ permalink: /publications/
 
 # To appear
 
+Kimmelman, V., R. Pfau & E.O. Aboh. (accepted) Argument structure of classifier predicates in Russian Sign Language. To appear in *Natural Language & Linguistic Theory* 
+
 Oomen, M. & V. Kimmelman (accepted). Body-anchored verbs and argument omission in two sign languages. To appear in *Glossa*. 
 
 Kimmelman, V. (accepted). Impersonal reference in Russian Sign Language. To appear in *Sign Language and Linguistics*. 
