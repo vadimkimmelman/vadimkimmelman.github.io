@@ -12,11 +12,11 @@ Oomen, M. & V. Kimmelman (accepted). Body-anchored verbs and argument omission i
 
 Kimmelman, V. (accepted). Impersonal reference in Russian Sign Language. To appear in *Sign Language and Linguistics*. 
 
-Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (accepted). Time-related signs in Russian Sign Language. To appear in *Sign Language Studies*.
-
 # 2019
 
 Kimmelman, V. (2019). *Information Structure in Sign Languages.* Sign Language and Deaf Community series. Berlin: De Gruyter Mouton. See the book [here](https://www.degruyter.com/view/product/505396). 
+
+Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (2019). Time-related signs in Russian Sign Language. *Sign Language Studies* 19(2), 175-203.
 
 # 2018 
 
@@ -24,7 +24,6 @@ Kimmelman, V. & E. Khristoforova. (2018). Quotation in Russian Sign Language: in
 corpus and elicitation. *FEAST 2*: 93-102. DOI: <https://doi.org/10.31009/FEAST.i2.08> (open access)
 
 Kimmelman, V. (2018) Basic argument structure in Russian Sign Language. Basic argument structure in Russian Sign Language. *Glossa: A Journal of General Linguistics*, 3(1), 116. DOI: <http://doi.org/10.5334/gjgl.494>. (open access)
-
 
 Kimmelman, V. (2018). Reduplication and repetition in Russian Sign Language. R. Finkbeiner, U. Freywald (eds.), *Exact Repetition in Grammar and Discourse* (pp. 91–109). Berlin: De Gruyter. <https://doi.org/10.1515/9783110592498-004> [[preprint pdf]](\papers/Kimmelman2018repetition-preprint.pdf).
 
