@@ -16,7 +16,7 @@ Kimmelman, V. (accepted). Impersonal reference in Russian Sign Language. To appe
 
 Kimmelman, V. (2019). *Information Structure in Sign Languages.* Sign Language and Deaf Community series. Berlin: De Gruyter Mouton. See the book [here](https://www.degruyter.com/view/product/505396). 
 
-Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (2019). Time-related signs in Russian Sign Language. *Sign Language Studies* 19(2), 175-203.
+Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (2019). Time-related signs in Russian Sign Language. *Sign Language Studies* 19(2), 175-203. [[pdf]](\papers/Burkova et al 2019 time.pdf)
 
 # 2018 
 
