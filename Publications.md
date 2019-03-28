@@ -18,7 +18,7 @@ Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (2019). Time
 
 # 2018 
 
-Kimmelman, V. (2018). Impersonal reference in Russian Sign Language (RSL). *Sign Language and Linguistics* 21:2, 204-231. DOI: <https://doi.org/10.1075/sll.00018.kim>. [[pdf]](\papers/Kimmelman 2018 impersonals.pdf)
+Kimmelman, V. (2018). Impersonal reference in Russian Sign Language (RSL). *Sign Language and Linguistics* 21:2, 204-231. DOI: <https://doi.org/10.1075/sll.00018.kim>. [[pdf]](\papers/Kimmelman 2018 impersonals.pdf).
 
 Kimmelman, V. & E. Khristoforova. (2018). Quotation in Russian Sign Language: insights from
 corpus and elicitation. *FEAST 2*: 93-102. DOI: <https://doi.org/10.31009/FEAST.i2.08> (open access)
