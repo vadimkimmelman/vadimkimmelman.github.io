@@ -8,8 +8,6 @@ permalink: /publications/
 
 Kimmelman, V., R. Pfau & E.O. Aboh. (accepted) Argument structure of classifier predicates in Russian Sign Language. To appear in *Natural Language & Linguistic Theory* 
 
-Kimmelman, V. (accepted). Impersonal reference in Russian Sign Language. To appear in *Sign Language and Linguistics*. 
-
 # 2019
 
 Kimmelman, V. (2019). *Information Structure in Sign Languages.* Sign Language and Deaf Community series. Berlin: De Gruyter Mouton. See the book [here](https://www.degruyter.com/view/product/505396). 
@@ -19,6 +17,8 @@ Oomen, M. & V. Kimmelman (2019). Body-anchored verbs and argument omission in tw
 Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (2019). Time-related signs in Russian Sign Language. *Sign Language Studies* 19(2), 175-203. [[pdf]](\papers/Burkova et al 2019 time.pdf)
 
 # 2018 
+
+Kimmelman, V. (2018). Impersonal reference in Russian Sign Language (RSL). *Sign Language and Linguistics* 21:2, 204-231. DOI: <https://doi.org/10.1075/sll.00018.kim>. [[pdf]](\papers/Kimmelman 2018 impersonals.pdf)
 
 Kimmelman, V. & E. Khristoforova. (2018). Quotation in Russian Sign Language: insights from
 corpus and elicitation. *FEAST 2*: 93-102. DOI: <https://doi.org/10.31009/FEAST.i2.08> (open access)
