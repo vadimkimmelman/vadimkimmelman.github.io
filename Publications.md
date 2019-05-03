@@ -4,11 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-# To appear
-
-Kimmelman, V., R. Pfau & E.O. Aboh. (accepted) Argument structure of classifier predicates in Russian Sign Language. To appear in *Natural Language & Linguistic Theory* 
-
 # 2019
+
+Kimmelman, V., R. Pfau & E.O. Aboh. (2019) Argument structure of classifier predicates in Russian Sign Language. *Natural Language & Linguistic Theory*. DOI: <https://link.springer.com/article/10.1007/s11049-019-09448-9> (open access)
 
 Kimmelman, V. (2019). *Information Structure in Sign Languages.* Sign Language and Deaf Community series. Berlin: De Gruyter Mouton. See the book [here](https://www.degruyter.com/view/product/505396). 
 
