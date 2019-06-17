@@ -32,9 +32,3 @@ On this website, you can find a description of my research projects, and my pres
 # CV
 
 Donwload my [CV](cv kimmelman.pdf) here. 
-
-<br>
-
------
-
-<br> 
