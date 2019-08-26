@@ -8,7 +8,7 @@ Only selected recent peer-reviewed presentations are listed.
 
 If you want a .pdf of the slides or posters, please send me an email. 
 
-# Upcoming 
+# 2019 
 
 Kimmelman, V., A. Klezovich & G. Moroz (2019). Quantitative analysis of iconicity in sign languages. *DGFS 41*, Leipzig, March 6-8. 
 
