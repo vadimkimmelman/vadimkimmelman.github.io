@@ -6,7 +6,11 @@ permalink: /publications/
 
 # 2019
 
+Kimmelman, V., V. De Lint, C. De Vos, M. Oomen, R. Pfau, L. Vink, E.O. Aboh. (2019). Argument structure of classifier predicates: Canonical and mon-canonical mappings in four sign languages. *Open Linguistics* 5: 332-353. DOI: <https://doi.org/10.1515/opli-2019-0018> (open access)
+
 Kimmelman, V., R. Pfau & E.O. Aboh. (2019) Argument structure of classifier predicates in Russian Sign Language. *Natural Language & Linguistic Theory*. DOI: <https://link.springer.com/article/10.1007/s11049-019-09448-9> (open access)
+
+Sabyrov, A., M. Mukushev, A. Imashev, K. Koishybay, A, Sandygulova & V. Kimmelman. (2019). Towards real-time Sign Language interpreting robot: Evaluation of non-manual components on recognition accuracy. *The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*. Available [online](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Augmented%20Human%20Human-centric%20Understanding%20and%202D-3D%20Synthesis/Sabyrov_Towards_Real-time_Sign_Language_Interpreting_Robot_Evaluation_of_Non-manual_Components_CVPRW_2019_paper.pdf)
 
 Kimmelman, V. (2019). *Information Structure in Sign Languages.* Sign Language and Deaf Community series. Berlin: De Gruyter Mouton. See the book [here](https://www.degruyter.com/view/product/505396). 
 
