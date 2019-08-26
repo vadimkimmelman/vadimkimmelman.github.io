@@ -10,6 +10,7 @@ If you want a .pdf of the slides or posters, please send me an email.
 
 # 2019 
 
+Nikitina, T., A. Bugaeva, A. Hantgan, V. Kimmelman, S. Spronck, R. Voll. (2019). Who is that speaking? Towards a typology of speech attributing devices. *ALT 13*, Pavia, September 4-6. 
 Kimmelman, V., A. Klezovich & G. Moroz (2019). Quantitative analysis of iconicity in sign languages. *DGFS 41*, Leipzig, March 6-8. 
 
 # 2018 
