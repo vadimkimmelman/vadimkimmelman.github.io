@@ -18,7 +18,7 @@ Oomen, M. & V. Kimmelman (2019). Body-anchored verbs and argument omission in tw
 
 Burkova S., V. Kimmelman, E. Filimonova, V. Kopylova, N. Semushina. (2019). Time-related signs in Russian Sign Language. *Sign Language Studies* 19(2), 175-203. [[pdf]](\papers/Burkova et al 2019 time.pdf)
 
-Kyuseva, M. & V. Kimmelman. 2019. Метафоры в жестовых языках: глаголы эмоций и ментальной сферы в русском жестовом языке. Voprosy Jazykoznanija. 5: 120-134. DOI: <http://doi.org/10.31857/S0373658X0006288-5>
+Kyuseva, M. & V. Kimmelman. (2019). Метафоры в жестовых языках: глаголы эмоций и ментальной сферы в русском жестовом языке. Voprosy Jazykoznanija. 5: 120-134. DOI: <http://doi.org/10.31857/S0373658X0006288-5>
 
 # 2018 
 
