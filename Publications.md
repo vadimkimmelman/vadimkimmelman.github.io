@@ -6,6 +6,10 @@ permalink: /publications/
 
 # 2019
 
+Burkova, S. & V. Kimmelman (eds.) *Introduction to sign language linguistics. Russian Sign Language.* Novosibirsk State Technical University (in Russian). The book can be ordered here: <http://publish.nstu.ru/catalog/uchebniki-ngtu/2242>
+
+Börstell, C., Jantunen, T., Kimmelman, V., de Lint, V., Mesch, J., & Oomen, M. (2019). Transitivity prominence within and across modalities. *Open Linguistics* 5: 666–689. <https://doi.org/10.1515/opli-2019-0037> (open access)
+
 Kimmelman, V., V. De Lint, C. De Vos, M. Oomen, R. Pfau, L. Vink, E.O. Aboh. (2019). Argument structure of classifier predicates: Canonical and mon-canonical mappings in four sign languages. *Open Linguistics* 5: 332-353. DOI: <https://doi.org/10.1515/opli-2019-0018> (open access)
 
 Kimmelman, V., R. Pfau & E.O. Aboh. (2019) Argument structure of classifier predicates in Russian Sign Language. *Natural Language & Linguistic Theory*. DOI: <https://link.springer.com/article/10.1007/s11049-019-09448-9> (open access)
