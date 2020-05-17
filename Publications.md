@@ -6,9 +6,9 @@ permalink: /publications/
 
 # 2020
 
-Mukushev, M., A. Imashev, V. Kimmelman & A. Sandygulova. (2020). Automatic Classification of Handshapes in Russian Sign Language. In *Proceedings of the LREC 2020 9th Workshop on the Representation and Processing of Sign Languages: Sign Language Resources in the Service of the Language Community, Technological Challenges and Application Perspectives*, 165?169. Marseille, France: European Language Resources Association. [[pdf]](\papers/Mukushev et al 2020 handshapes.pdf)
+Mukushev, M., A. Imashev, V. Kimmelman & A. Sandygulova. (2020). Automatic Classification of Handshapes in Russian Sign Language. In *Proceedings of the LREC 2020 9th Workshop on the Representation and Processing of Sign Languages: Sign Language Resources in the Service of the Language Community, Technological Challenges and Application Perspectives*, 165-169. Marseille, France: European Language Resources Association. [[pdf]](\papers/Mukushev et al 2020 handshapes.pdf)
 
-Mukushev, M., A. Sabyrov, A. Imashev, K. Koishybay, V. Kimmelman & A. Sandygulova. (2020). Evaluation of Manual and Non-manual Components for Sign Language Recognition. In Proceedings of The 12th Language Resources and Evaluation Conference, 6075?6080. Marseille, France: European Language Resources Association. https://www.aclweb.org/anthology/2020.lrec-1.745. [[pdf]](\papers/Mukushev et al 2020 evaluation.pdf)
+Mukushev, M., A. Sabyrov, A. Imashev, K. Koishybay, V. Kimmelman & A. Sandygulova. (2020). Evaluation of Manual and Non-manual Components for Sign Language Recognition. In Proceedings of The 12th Language Resources and Evaluation Conference, 6075-6080. Marseille, France: European Language Resources Association. https://www.aclweb.org/anthology/2020.lrec-1.745. [[pdf]](\papers/Mukushev et al 2020 evaluation.pdf)
 
 
 # 2019
