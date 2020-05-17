@@ -4,6 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
+# 2020
+
+Mukushev, M., A. Imashev, V. Kimmelman & A. Sandygulova. (2020). Automatic Classification of Handshapes in Russian Sign Language. In *Proceedings of the LREC 2020 9th Workshop on the Representation and Processing of Sign Languages: Sign Language Resources in the Service of the Language Community, Technological Challenges and Application Perspectives*, 165?169. Marseille, France: European Language Resources Association. [[pdf]](\papers/Mukushev et al 2020 handshapes.pdf)
+
+Mukushev, M., A. Sabyrov, A. Imashev, K. Koishybay, V. Kimmelman & A. Sandygulova. (2020). Evaluation of Manual and Non-manual Components for Sign Language Recognition. In Proceedings of The 12th Language Resources and Evaluation Conference, 6075?6080. Marseille, France: European Language Resources Association. https://www.aclweb.org/anthology/2020.lrec-1.745. [[pdf]](\papers/Mukushev et al 2020 evaluation.pdf)
+
+
 # 2019
 
 Burkova, S. & V. Kimmelman (eds.) *Introduction to sign language linguistics. Russian Sign Language.* Novosibirsk State Technical University (in Russian). The book can be ordered here: <http://publish.nstu.ru/catalog/uchebniki-ngtu/2242>
@@ -14,7 +21,6 @@ Kimmelman, V., V. De Lint, C. De Vos, M. Oomen, R. Pfau, L. Vink, E.O. Aboh. (20
 
 Kimmelman, V., R. Pfau & E.O. Aboh. (2019) Argument structure of classifier predicates in Russian Sign Language. *Natural Language & Linguistic Theory*. DOI: <https://link.springer.com/article/10.1007/s11049-019-09448-9> (open access)
 
-Sabyrov, A., M. Mukushev, A. Imashev, K. Koishybay, A, Sandygulova & V. Kimmelman. (2019). Towards real-time Sign Language interpreting robot: Evaluation of non-manual components on recognition accuracy. *The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*. Available [online](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Augmented%20Human%20Human-centric%20Understanding%20and%202D-3D%20Synthesis/Sabyrov_Towards_Real-time_Sign_Language_Interpreting_Robot_Evaluation_of_Non-manual_Components_CVPRW_2019_paper.pdf)
 
 Kimmelman, V. (2019). *Information Structure in Sign Languages.* Sign Language and Deaf Community series. Berlin: De Gruyter Mouton. See the book [here](https://www.degruyter.com/view/product/505396). 
 
