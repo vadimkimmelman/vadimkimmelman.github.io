@@ -3,7 +3,7 @@ layout: home
 navigation_weight: 1
 ---
 
-<img style="float:left;" src="img/pasfoto.jpeg" hspace="20">
+<img style="float:left;" src="img/photo.jpg" hspace="20">
 
 Associate Professor\\
 Department of Linguistic, Literary and Aesthetic Studies \\
