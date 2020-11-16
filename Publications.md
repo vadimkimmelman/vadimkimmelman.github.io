@@ -6,6 +6,10 @@ permalink: /publications/
 
 # 2020
 
+Khristoforova, E. & V. Kimmelman (2020). Syntax of relativization in Russian Sign Language: Basicfeatures. *Voprosy Jazykoznaniia 6*: 48?65. [[pdf]](\papers/Khristoforova Kimmelman 2020.pdf)
+
+Imashev, A., M. Mukushev, V. Kimmelman & A. Sandygulova (2020). A Dataset for Linguistic Understanding,Visual Evaluation, and Recognition of Sign Languages: The K-RSL. In *Proceedings ofthe 24th Conference on Computational Natural Language Learning, 631?640* Online: Associationfor Computational Linguistics. <https://www.aclweb.org/anthology/2020.conll-1.51> (open access)
+
 Kimmelman, V., A. Imashev, M. Mukushev & A. Sandygulova. (2020). Eyebrow position in grammatical and emotional expressions in Kazakh-Russian Sign Language: A quantitative study. *PLOS ONE* 15(6). <https://doi.org/10.1371/journal.pone.0233731> (open access)
 
 Mukushev, M., A. Imashev, V. Kimmelman & A. Sandygulova. (2020). Automatic Classification of Handshapes in Russian Sign Language. In *Proceedings of the LREC 2020 9th Workshop on the Representation and Processing of Sign Languages: Sign Language Resources in the Service of the Language Community, Technological Challenges and Application Perspectives*, 165-169. Marseille, France: European Language Resources Association. [[pdf]](\papers/Mukushev et al 2020 handshapes.pdf)
