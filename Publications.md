@@ -6,15 +6,20 @@ permalink: /publications/
 
 # Accepted
 
-Kimmelman, V. (to appear). Acceptability judgments in sign languages. In G. Goodall (ed.) *CambridgeHandbook of Experimental Syntax*. Cambridge University Press.
-Kimmelman, V., Burkova, S. & E. Filimonova (to appear). Number in Russian Sign Language. In M.Daniel & P. Acquaviva (eds.) *Handbook of Number*. De Gruyter Mouton.
-Kimmelman, V. & C. Borstell (to appear). Word classes in sign languages. In E. van Lier (ed.) *OxfordHandbook ofWord Classes*. Oxford University Press.
+Kimmelman, V. (to appear). Acceptability judgments in sign languages. In G. Goodall (ed.) *Cambridge
+Handbook of Experimental Syntax*. Cambridge University Press.
+
+Kimmelman, V., Burkova, S. & E. Filimonova (to appear). Number in Russian Sign Language. In M.
+Daniel & P. Acquaviva (eds.) *Handbook of Number*. De Gruyter Mouton.
+
+Kimmelman, V. & C. B&#246;rstell (to appear). Word classes in sign languages. In E. van Lier (ed.) *Oxford
+Handbook ofWord Classes*. Oxford University Press.
 
 
 # 2021 
 Kimmelman, V. & J. Quer (2021) Quantifiers: Theoretical Perspectives. In J. Quer, R. Pfau & A. Herrmann (eds.), *The Routledge Handbook of Theoretical and Experimental Sign Language Research*, (pp. 423-439). Routledge. [[preprint]](\papers/Kimmelman Quer 2021 Quantifiers.pdf)
 
-Kimmelman, V. & R. Pfau. (2021) Information Structure: Theoretical and Experimental Perspectives. In J. Quer, R. Pfau & A. Herrmann (eds.), *The Routledge Handbook of Theoretical and Experimental Sign Language Research*, (pp. 591-413). Routledge. [[preprint]](\papers/Kimmelman Pfau 2021 IS.pdf)
+Kimmelman, V. & R. Pfau. (2021) Information Structure: Theoretical Perspectives. In J. Quer, R. Pfau & A. Herrmann (eds.), *The Routledge Handbook of Theoretical and Experimental Sign Language Research*, (pp. 591-413). Routledge. [[preprint]](\papers/Kimmelman Pfau 2021 IS.pdf)
 
 
 # 2020
@@ -37,7 +42,7 @@ Mukushev, M., A. Sabyrov, A. Imashev, K. Koishybay, V. Kimmelman & A. Sandygulov
 
 Burkova, S. & V. Kimmelman (eds.) *Introduction to sign language linguistics. Russian Sign Language.* Novosibirsk State Technical University (in Russian). The book can be ordered here: <http://publish.nstu.ru/catalog/uchebniki-ngtu/2242>
 
-Borstell, C., Jantunen, T., Kimmelman, V., de Lint, V., Mesch, J., & Oomen, M. (2019). Transitivity prominence within and across modalities. *Open Linguistics* 5: 666–689. <https://doi.org/10.1515/opli-2019-0037> (open access)
+B&#246;rstell, C., Jantunen, T., Kimmelman, V., de Lint, V., Mesch, J., & Oomen, M. (2019). Transitivity prominence within and across modalities. *Open Linguistics* 5: 666–689. <https://doi.org/10.1515/opli-2019-0037> (open access)
 
 Kimmelman, V., V. De Lint, C. De Vos, M. Oomen, R. Pfau, L. Vink, E.O. Aboh. (2019). Argument structure of classifier predicates: Canonical and mon-canonical mappings in four sign languages. *Open Linguistics* 5: 332-353. DOI: <https://doi.org/10.1515/opli-2019-0018> (open access)
 
