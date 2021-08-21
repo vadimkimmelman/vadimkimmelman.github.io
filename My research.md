@@ -7,7 +7,9 @@ permalink: /research/
 
 Since 2019 I have been collaborating with a group of researchers at Nazarabayev University (Nur-Sultan, Kazakhstan), led by dr. Anara Sandygulova, on various projects involving computational approaches to sign languages. 
 
-For instance, we have done research on automatic recognition of handshapes in Russian Sign Language (read it [here](\papers/Mukushev et al 2020 handshapes.pdf)) and how this method can be used to answer linguistic questions, and on how automatic recognition of signs can be aided by taking non-manuals into account (read it [here](\papers/Mukushev et al 2020 evaluation.pdf)). In addition, we published a paper showing that eyebrow position in Kazakh-Russian Sign Language is affected by both emotions and grammar using computational approaches to quantitatively analyze the data ([here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233731), open access).  
+For instance, we have done research on automatic recognition of handshapes in Russian Sign Language (read it [here](\papers/Mukushev et al 2020 handshapes.pdf)) and how this method can be used to answer linguistic questions, and on how automatic recognition of signs can be aided by taking non-manuals into account (read it [here](\papers/Mukushev et al 2020 evaluation.pdf)). In addition, we published a paper showing that eyebrow position in Kazakh-Russian Sign Language is affected by both emotions and grammar using computational approaches to quantitatively analyze the data ([here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233731), open access). In the most recent publication (August 2021) [here](https://aclanthology.org/2021.mtsummit-at4ssl.6/), we applied OpenFace to extract eyebrow position in 3D from video recordings, and Machine Learning to correct for errors introduced by head tilts. This is a proof of concept for using Computer Vision for phonetic analysis of non-manual markers.
+
+<br>
 
 
 # Argument structure in three sign languages

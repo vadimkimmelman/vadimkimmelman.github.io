@@ -12,11 +12,13 @@ Handbook of Experimental Syntax*. Cambridge University Press.
 Kimmelman, V., Burkova, S. & E. Filimonova (to appear). Number in Russian Sign Language. In M.
 Daniel & P. Acquaviva (eds.) *Handbook of Number*. De Gruyter Mouton.
 
-Kimmelman, V. & C. B&#246;rstell (to appear). Word classes in sign languages. In E. van Lier (ed.) *Oxford
-Handbook ofWord Classes*. Oxford University Press.
+Kimmelman, V. & C. B&#246;rstell (to appear). Word classes in sign languages. In E. van Lier (ed.) *Oxford Handbook ofWord Classes*. Oxford University Press.
 
 
 # 2021 
+
+Kuznetsova, A., A. Imashev, M. Mukushev, A. Sandygulova & V. Kimmelman (2021). Using ComputerVision to Analyze Non-manual Marking of Questions in KRSL. In D. Shterionov (ed.) *Proceedingsof the 1st International Workshop on Automatic Translation for Signed and Spoken Languages(AT4SSL)*, (pp. 49-59). Association forMachine Translation in the Americas. <https://aclanthology.org/2021.mtsummit-at4ssl.6/> (open access)
+
 Kimmelman, V. & J. Quer (2021) Quantifiers: Theoretical Perspectives. In J. Quer, R. Pfau & A. Herrmann (eds.), *The Routledge Handbook of Theoretical and Experimental Sign Language Research*, (pp. 423-439). Routledge. [[preprint]](\papers/Kimmelman Quer 2021 Quantifiers.pdf)
 
 Kimmelman, V. & R. Pfau. (2021) Information Structure: Theoretical Perspectives. In J. Quer, R. Pfau & A. Herrmann (eds.), *The Routledge Handbook of Theoretical and Experimental Sign Language Research*, (pp. 591-413). Routledge. [[preprint]](\papers/Kimmelman Pfau 2021 IS.pdf)
