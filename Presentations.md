@@ -8,6 +8,13 @@ Only selected recent peer-reviewed presentations are listed.
 
 If you want a .pdf of the slides or posters, please send me an email. 
 
+#2021
+
+
+Kuznetsova, A., A. Imashev, M. Mukushev, A. Sandygulova & V. Kimmelman (2021). Using Com- puter Vision to Analyze Non-manual Marking of Questions in KRSL. *1st International Workshop on Automatic Translation for Signed and Spoken Languages (AT4SSL).* August 2, 2021
+
+[2] Khristoforova, E. & V. Kimmelman (2021). Question-Answer pairs in Russian Sign Language: a corpus study. *FEAST*, June 3, 2021.
+
 # 2019 
 
 Nikitina, T., A. Bugaeva, A. Hantgan, V. Kimmelman, S. Spronck, R. Voll. (2019). Who is that speaking? Towards a typology of speech attributing devices. *ALT 13*, Pavia, September 4-6. 
