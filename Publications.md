@@ -6,9 +6,6 @@ permalink: /publications/
 
 # Accepted
 
-Kimmelman, V. (to appear). Acceptability judgments in sign languages. In G. Goodall (ed.) *Cambridge
-Handbook of Experimental Syntax*. Cambridge University Press.
-
 Kimmelman, V., Burkova, S. & E. Filimonova (to appear). Number in Russian Sign Language. In M.
 Daniel & P. Acquaviva (eds.) *Handbook of Number*. De Gruyter Mouton.
 
@@ -17,7 +14,13 @@ Kimmelman, V. & C. B&#246;rstell (to appear). Word classes in sign languages. In
 
 # 2021 
 
-Kuznetsova, A., A. Imashev, M. Mukushev, A. Sandygulova & V. Kimmelman (2021). Using ComputerVision to Analyze Non-manual Marking of Questions in KRSL. In D. Shterionov (ed.) *Proceedingsof the 1st International Workshop on Automatic Translation for Signed and Spoken Languages(AT4SSL)*, (pp. 49-59). Association forMachine Translation in the Americas. <https://aclanthology.org/2021.mtsummit-at4ssl.6/> (open access)
+Kimmelman, V. (2021). Acceptability judgments in sign languages. In G. Goodall (ed.) *Cambridge
+Handbook of Experimental Syntax*, (pp. 561-584). Cambridge University Press. [[preprint]](https://ling.auf.net/lingbuzz/004714)
+
+Kuznetsova, A., A. Imashev, M. Mukushev, A. Sandygulova & V. Kimmelman (2021). Using Computer
+Vision to Analyze Non-manual Marking of Questions in KRSL. In D. Shterionov (ed.) *Proceedings
+of the 1st International Workshop on Automatic Translation for Signed and Spoken Languages
+(AT4SSL)*, (pp. 49-59). Association forMachine Translation in the Americas. <https://aclanthology.org/2021.mtsummit-at4ssl.6/> (open access)
 
 Kimmelman, V. & J. Quer (2021) Quantifiers: Theoretical Perspectives. In J. Quer, R. Pfau & A. Herrmann (eds.), *The Routledge Handbook of Theoretical and Experimental Sign Language Research*, (pp. 423-439). Routledge. [[preprint]](\papers/Kimmelman Quer 2021 Quantifiers.pdf)
 
