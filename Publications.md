@@ -9,10 +9,18 @@ permalink: /publications/
 Kimmelman, V., Burkova, S. & E. Filimonova (to appear). Number in Russian Sign Language. In M.
 Daniel & P. Acquaviva (eds.) *Handbook of Number*. De Gruyter Mouton.
 
-Kimmelman, V. & C. B&#246;rstell (to appear). Word classes in sign languages. In E. van Lier (ed.) *Oxford Handbook ofWord Classes*. Oxford University Press.
+Kimmelman, V. & C. B&#246;rstell (to appear). Word classes in sign languages. In E. van Lier (ed.) *Oxford Handbook of Word Classes*. Oxford University Press.
 
+# 2022
+
+Kimmelman, V., Komarova, A., Luchkova, L., Vinogradova, V., & Alekseeva, O. (2022). Exploring
+networks of lexical variation in Russian Sign Language. *Frontiers in Psychology, 12*, 6333.
+<https://doi.org/10.3389/fpsyg.2021.740734> (open access)
 
 # 2021 
+
+Khristoforova, E., & Kimmelman, V. (2021). Question-answer pairs in Russian Sign Language: A
+corpus study. *FEAST 4*, 101-112. <https://doi.org/10.31009/FEAST.i4.08> (open access)
 
 Kimmelman, V. (2021). Acceptability judgments in sign languages. In G. Goodall (ed.) *Cambridge
 Handbook of Experimental Syntax*, (pp. 561-584). Cambridge University Press. [[preprint]](https://ling.auf.net/lingbuzz/004714)

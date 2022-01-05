@@ -11,6 +11,11 @@ For instance, we have done research on automatic recognition of handshapes in Ru
 
 <br>
 
+# Lexical variation in Russian Sign Language. 
+
+In 2020, I have collaborated with several researchers on a project initiated by the Garage Museum, Moscow, to collect and analyze a database of lexical variation in Russian Sign Language. We have collected more than 19 000 recordings for more than 100 concepts from more than 250 RSL signers. The database is openly available [here](https://rsl-research-explore.garagemca.org/), albeit only in Russian. Our first published paper using this dataset is on the very complex networks of variants that have been found in it, and it can be read [here](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.740734), in open access.
+
+<br>
 
 # Argument structure in three sign languages
 
