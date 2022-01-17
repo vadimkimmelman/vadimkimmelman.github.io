@@ -13,7 +13,7 @@ Kimmelman, V. & C. B&#246;rstell (to appear). Word classes in sign languages. In
 
 # 2022
 
-Kimmelman, V. (2022). Argument structure in sign languages. *Annual Review of Linguistics*, 8(1), 19?38. <https://doi.org/10.1146/annurev-linguistics-031220-122519> [[preprint]](https://ling.auf.net/lingbuzz/005876)
+Kimmelman, V. (2022). Argument structure in sign languages. *Annual Review of Linguistics*, 8(1), 19?38. <https://doi.org/10.1146/annurev-linguistics-031220-122519> [[Download a copy here.]]http://www.annualreviews.org/eprint/GJWFJV6MNPXHITCRMCM3/full/10.1146/annurev-linguistics-031220-122519)
 
 Kimmelman, V., Komarova, A., Luchkova, L., Vinogradova, V., & Alekseeva, O. (2022). Exploring
 networks of lexical variation in Russian Sign Language. *Frontiers in Psychology, 12*, 6333.
