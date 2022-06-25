@@ -6,12 +6,18 @@ permalink: /publications/
 
 # Accepted
 
-Kimmelman, V., Burkova, S. & E. Filimonova (to appear). Number in Russian Sign Language. In M.
-Daniel & P. Acquaviva (eds.) *Handbook of Number*. De Gruyter Mouton.
-
 Kimmelman, V. & C. B&#246;rstell (to appear). Word classes in sign languages. In E. van Lier (ed.) *Oxford Handbook of Word Classes*. Oxford University Press.
 
 # 2022
+
+[Chizhikova, A., & Kimmelman, V. (2022). Phonetics of Negative Headshake in Russian Sign Language: A Small-Scale Corpus Study. In E. Efthimiou, S.-E. Fotinea, T. Hanke, J. A. Hochge-sang, J. Kristoffersen, J. Mesch, & M. Schulder (Eds.), *Proceedings of the LREC2022 10th Workshop on the Representation and Processing of Sign Languages: Multilingual Sign Language Resources* (pp. 29-36). European Language Resources Association (ELRA). <https://www. sign-lang.uni-hamburg.de/lrec/pub/22011.pdf>
+
+Kuznetsova, A., Imashev, A., Mukushev, M., Sandygulova, A., & Kimmelman, V. (2022). Functional Data Analysis of Non-manual Marking of Questions in Kazakh-Russian Sign Language. In E. Efthimiou, S.-E. Fotinea, T. Hanke, J. A. Hochgesang, J. Kristoffersen, J. Mesch, & M. Schulder (Eds.), *Proceedings of the LREC2022 10th Workshop on the Representation and Processing of Sign Languages: Multilingual Sign Language Resources* (pp. 124-131). European Language Resources Association (ELRA). <https://www.sign-lang.uni-hamburg.de/lrec/pub/22024.pdf>
+
+Mukushev, M., Ubingazhibov, A., Kydyrbekova, A., Imashev, A., Kimmelman, V., & Sandygulova, A. (2022). Crowdsourcing Kazakh-Russian Sign Language: FluentSigners-50. In N. Calzolari, F. Béchet, P. Blache, K. Choukri, C. Cieri, T. Declerck, S. Goggi, H. Isahara, B. Maegaard, J. Mari- ani, H. Mazo, J. Odijk, & S. Piperidis (Eds.), *13th International Conference on Language Resources and Evaluation (LREC 2022)* (pp. 2541-2547). European Language Resources Association (ELRA). <http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.271>
+
+Kimmelman, V., Burkova, S. & E. Filimonova (2022). Number in Russian Sign Language. In M.
+Daniel & P. Acquaviva (eds.) *Handbook of Number* (pp. 805-832). De Gruyter Mouton. [[pdf]](\papers/Kimmelman et al 2022 Number in RSL.pdf)
 
 Kimmelman, V. (2022). Argument structure in sign languages. *Annual Review of Linguistics*, 8(1), 19-38. <https://doi.org/10.1146/annurev-linguistics-031220-122519> [[Download a copy here.]](http://www.annualreviews.org/eprint/GJWFJV6MNPXHITCRMCM3/full/10.1146/annurev-linguistics-031220-122519)
 
