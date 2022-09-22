@@ -36,7 +36,7 @@ Handbook of Experimental Syntax*, (pp. 561-584). Cambridge University Press. [[p
 Kuznetsova, A., A. Imashev, M. Mukushev, A. Sandygulova & V. Kimmelman (2021). Using Computer
 Vision to Analyze Non-manual Marking of Questions in KRSL. In D. Shterionov (ed.) *Proceedings
 of the 1st International Workshop on Automatic Translation for Signed and Spoken Languages
-(AT4SSL)*, (pp. 49-59). Association forMachine Translation in the Americas. <https://aclanthology.org/2021.mtsummit-at4ssl.6/> (open access)
+(AT4SSL)*, (pp. 49-59). Association for Machine Translation in the Americas. <https://aclanthology.org/2021.mtsummit-at4ssl.6/> (open access)
 
 Kimmelman, V. & J. Quer (2021) Quantifiers: Theoretical Perspectives. In J. Quer, R. Pfau & A. Herrmann (eds.), *The Routledge Handbook of Theoretical and Experimental Sign Language Research*, (pp. 423-439). Routledge. [[preprint]](\papers/Kimmelman Quer 2021 Quantifiers.pdf)
 

@@ -3,6 +3,12 @@ layout: page
 title: Research
 permalink: /research/
 ---
+# Fundamentals of formal properties of nonmanuals:  <br> A quantitative approach (NONMANUAL)
+
+In 2023-2027 my main research focus is the ERC-StG project NONMANUAL. Read more about it [on the separate project page](\nonmanual). 
+
+<br>
+
 # Computational approaches to sign languages
 
 Since 2019 I have been collaborating with a group of researchers at Nazarabayev University (Nur-Sultan, Kazakhstan), led by dr. Anara Sandygulova, on various projects involving computational approaches to sign languages. 

@@ -9,6 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
     - My research.md
+    - Nonmanual.md
     - Publications.md
     - Presentations.md
     - Русская версия.md

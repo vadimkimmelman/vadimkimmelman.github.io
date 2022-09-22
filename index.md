@@ -27,6 +27,9 @@ I am a linguist working primarily on the grammar of sign languages, specifically
 
 Currently I am a Professor of General Linguistics at the University of Bergen. Before 2019 I was a PhD student and later postdoc at the University of Amsterdam. 
 
+In 2023-2027 I will be working on an ERC-funded project "Fundamentals of formal properties of nonmanuals:
+A quantitative approach" (NONMANUAL). Read more about this project [here](\nonmanual).
+
 On this website, you can find a description of my research projects, and my presentations and publications (with pdfs).
 
 
