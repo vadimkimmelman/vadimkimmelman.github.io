@@ -8,6 +8,12 @@ permalink: /publications/
 
 Kimmelman, V. & C. Börstell (to appear). Word classes in sign languages. In E. van Lier (ed.) *Oxford Handbook of Word Classes*. Oxford University Press.
 
+# 2023 
+
+Kimmelman, V. & A. Teresė (2023). Analyzing Literary Texts in Lithuanian Sign Language withComputer Vision: A Proof of Concept. In R. Galimullin & S. Touileb. CEUR Workshop Proceedingsvol. 3413. <https://ceur-ws.org/Vol-3431/paper5.pdf>
+
+Burkova, S., Khristoforova, E., & Kimmelman, V. (2023). Chapter 4. Syntactic functions of nonmanuals in Russian Sign Language. In E. Wehrmeyer (Ed.), Advances in Sign Language Corpus Linguistics (Vol. 108, pp. 90-122). John Benjamins Publishing Company. https://doi.org/10.1075/scl.108.04bur. [[pdf]](\papers/Burkova et al 2023 VoR.pdf) 
+
 # 2022
 
 Chizhikova, A., & Kimmelman, V. (2022). Phonetics of Negative Headshake in Russian Sign Language: A Small-Scale Corpus Study. In E. Efthimiou, S.-E. Fotinea, T. Hanke, J. A. Hochgesang, J. Kristoffersen, J. Mesch, & M. Schulder (Eds.), *Proceedings of the LREC2022 10th Workshop on the Representation and Processing of Sign Languages: Multilingual Sign Language Resources* (pp. 29-36). European Language Resources Association (ELRA). <https://www. sign-lang.uni-hamburg.de/lrec/pub/22011.pdf>

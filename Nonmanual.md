@@ -44,7 +44,12 @@ Finally, the established typology of formal properties of nonmanuals in the five
 
 # Output
 
-The project officially kicks off in 2023. However, I have co-authored several studies that were pilots for the research that will be conducted within this project: 
+Kimmelman, V. & A. Teresė (2023). Analyzing Literary Texts in Lithuanian Sign Language withComputer Vision: A Proof of Concept. In R. Galimullin & S. Touileb. CEUR Workshop Proceedingsvol. 3413. <https://ceur-ws.org/Vol-3431/paper5.pdf> (open access)
+
+**In this study, we demonstrate how Computer Vision (MediaPipe) can be applied to analyze kinetic properties in literary pieces and their non-literary retellings in Lithuanian Sign Language.**
+
+
+Previous publications: 
 
 Kimmelman, V., A. Imashev, M. Mukushev & A. Sandygulova. (2020). Eyebrow position in grammatical and emotional expressions in Kazakh-Russian Sign Language: A quantitative study. *PLOS ONE* 15(6). <https://doi.org/10.1371/journal.pone.0233731> (open access) 
 * *In this study, we applied a Computer Vision tool (OpenPose) to quantitatively analyze eyebrow position as affected by three sentence types and three different emotions in utterances produced by ten signers. See a video below demonstrating application of the tool and sentence types.*
