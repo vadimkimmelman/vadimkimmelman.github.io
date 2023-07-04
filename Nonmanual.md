@@ -44,10 +44,13 @@ Finally, the established typology of formal properties of nonmanuals in the five
 
 # Output
 
-Kimmelman, V. & A. Teresė (2023). Analyzing Literary Texts in Lithuanian Sign Language withComputer Vision: A Proof of Concept. In R. Galimullin & S. Touileb. CEUR Workshop Proceedingsvol. 3413. <https://ceur-ws.org/Vol-3431/paper5.pdf> (open access)
+Kimmelman, V. & A. Teresė (2023). Analyzing Literary Texts in Lithuanian Sign Language with
+Computer Vision: A Proof of Concept. In R. Galimullin & S. Touileb. CEUR Workshop Proceedings
+vol. 3413. <https://ceur-ws.org/Vol-3431/paper5.pdf> (open access)
 
-**In this study, we demonstrate how Computer Vision (MediaPipe) can be applied to analyze kinetic properties in literary pieces and their non-literary retellings in Lithuanian Sign Language.**
+* *In this study, we demonstrate how Computer Vision (MediaPipe) can be applied to analyze kinetic properties in literary pieces and their non-literary retellings in Lithuanian Sign Language. For example, the graph below shows that the eyebrows move more in the originals in comparison to the retellings of the same pieces.*
 
+![](/img/eyebrow-right.png)
 
 Previous publications: 
 
