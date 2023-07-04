@@ -38,13 +38,13 @@ Finally, the established typology of formal properties of nonmanuals in the five
 
 * Statistician: [Jan Bulla](https://www.uib.no/personer/Jan.Bulla)
 
-**Collaborations with** [Anna Kuznetsova](https://github.com/kuzanna2016), [Anastasiia Chizhikova](https://orcid.org/0000-0002-5091-7664), [Anara Sandygulova](https://research.nu.edu.kz/en/persons/anara-sandygulova), [Medet Mukushev](https://scholar.google.de/citations?user=HPTthwYAAAAJ&hl=en), Alfarabi Imashev
+**Collaborations with** [Anna Kuznetsova](https://github.com/kuzanna2016), [Anastasiia Chizhikova](https://orcid.org/0000-0002-5091-7664), [Anara Sandygulova](https://research.nu.edu.kz/en/persons/anara-sandygulova), [Medet Mukushev](https://scholar.google.de/citations?user=HPTthwYAAAAJ&hl=en), Alfarabi Imashev, An¸elika Teres?.
 
 <br>
 
 # Output
 
-Kimmelman, V. & A. TeresÄ— (2023). Analyzing Literary Texts in Lithuanian Sign Language with
+Kimmelman, V. & A. Terese— (2023). Analyzing Literary Texts in Lithuanian Sign Language with
 Computer Vision: A Proof of Concept. In R. Galimullin & S. Touileb. CEUR Workshop Proceedings
 vol. 3413. <https://ceur-ws.org/Vol-3431/paper5.pdf> (open access)
 
