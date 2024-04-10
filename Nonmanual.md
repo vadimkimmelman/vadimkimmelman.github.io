@@ -36,13 +36,15 @@ Finally, the established typology of formal properties of nonmanuals in the five
 
 * PhD student: [Lorena Figueiredo](https://www.uib.no/personer/Lorena.Figueiredo)
 
-* Statistician: [Jan Bulla](https://www.uib.no/personer/Jan.Bulla)
+* Statistician: [Jan Bulla](https://www.uib.no/personer/Jan.Bulla) 
+
+* Research Assistants: Laurence Crettenand
 
 **Collaborations with** [Anna Kuznetsova](https://github.com/kuzanna2016), [Marloes Oomen](https://www.uva.nl/en/profile/o/o/m.oomen2/m.oomen2.html), [Roland Pfau](https://www.uva.nl/en/profile/p/f/r.pfau/r.pfau.html), [Connie de Vos](https://research.tilburguniversity.edu/en/persons/connie-de-vos), [Josefina Safar](https://www.tilburguniversity.edu/staff/j-safar), [Ari Price](https://ari-price.com/), [Anastasiia Chizhikova](https://orcid.org/0000-0002-5091-7664), [Anara Sandygulova](https://research.nu.edu.kz/en/persons/anara-sandygulova), [Medet Mukushev](https://scholar.google.de/citations?user=HPTthwYAAAAJ&hl=en), Alfarabi Imashev, Anželika Teresė.
 
 <br>
 
-# Output 
+# Project publications 
 
 Kimmelman, V., M. Oomen & R. Pfau (2024) Headshakes in NGT: Relation between Phonetic Properties & Linguistic Functions *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 headshake in NGT LREC.pdf) 
 
@@ -80,7 +82,7 @@ vol. 3413. <https://ceur-ws.org/Vol-3431/paper5.pdf> (open access)
 
 ![](/img/eyebrow-right.png)
 
-Previous publications: 
+# Previous publications
 
 Kimmelman, V., A. Imashev, M. Mukushev & A. Sandygulova. (2020). Eyebrow position in grammatical and emotional expressions in Kazakh-Russian Sign Language: A quantitative study. *PLOS ONE* 15(6). <https://doi.org/10.1371/journal.pone.0233731> (open access) 
 * *In this study, we applied a Computer Vision tool (OpenPose) to quantitatively analyze eyebrow position as affected by three sentence types and three different emotions in utterances produced by ten signers. See a video below demonstrating application of the tool and sentence types.*
