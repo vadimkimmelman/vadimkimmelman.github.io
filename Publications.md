@@ -4,13 +4,29 @@ title: Publications
 permalink: /publications/
 ---
 
-# Accepted
+# 2024
 
-Kimmelman, V. & C. Börstell (to appear). Word classes in sign languages. In E. van Lier (ed.) *Oxford Handbook of Word Classes*. Oxford University Press.
+Kimmelman, V., M. Oomen & R. Pfau (2024) Headshakes in NGT: Relation between Phonetic Properties & Linguistic Functions *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 headshake in NGT LREC.pdf) 
+
+
+Kimmelman, V., A. Price, J. Safar, C. de Vos & J. Bulla (2024) Nonmanual Marking of Questions in Balinese Homesign Interactions: a Computer-Vision Assisted Analysis. *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 head tilt homesigners LREC.pdf) 
+
+
+Susman, M. & V. Kimmelman. (2024) Eye Blink Detection in Sign Language Data Using CNNs and
+Rule-Based Methods  *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Susman Kimmelman 2024 eyeblinks LSF LREC.pdf) 
+
+
+Kuznetsova, A. & V. Kimmelman. (2024). Testing MediaPipe Holistic for Linguistic Analysis of Nonmanual Markers in Sign Languages. arXiv. http://arxiv.org/abs/2403.10367. (pre-print, open access)
+
+
 
 # 2023 
 
-Kimmelman, V. & A. Teresė (2023). Analyzing Literary Texts in Lithuanian Sign Language withComputer Vision: A Proof of Concept. In R. Galimullin & S. Touileb. CEUR Workshop Proceedingsvol. 3413. <https://ceur-ws.org/Vol-3431/paper5.pdf>
+Kimmelman, V. & C. Börstell (2023). Word classes in sign languages. In E. van Lier (ed.) *Oxford Handbook of Word Classes*, 809-830. Oxford University Press.
+
+Kimmelman, V. & A. Teresė (2023). Analyzing Literary Texts in Lithuanian Sign Language with
+Computer Vision: A Proof of Concept. In R. Galimullin & S. Touileb. CEUR Workshop Proceedings
+vol. 3413. <https://ceur-ws.org/Vol-3431/paper5.pdf>
 
 Burkova, S., Khristoforova, E., & Kimmelman, V. (2023). Chapter 4. Syntactic functions of nonmanuals in Russian Sign Language. In E. Wehrmeyer (Ed.), Advances in Sign Language Corpus Linguistics (Vol. 108, pp. 90-122). John Benjamins Publishing Company. https://doi.org/10.1075/scl.108.04bur. [[pdf]](\papers/Burkova et al 2023 VoR.pdf) 
 
