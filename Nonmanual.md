@@ -30,19 +30,27 @@ Finally, the established typology of formal properties of nonmanuals in the five
 
 * PI: [Vadim Kimmelman](vadimkimmelman.com)
 
-* Postdoctoral researcher: the position will be advertised shortly
+* Postdoctoral researcher: [Allah Bux](https://www.uib.no/personer/Allah.Bux)
 
-* PhD student: the position will be advertised shortly
+* PhD student: [Margaux Susman](https://www.uib.no/personer/Margaux.Marie.Christelle.Susman)
 
-* PhD student: the position will be advertised shortly
+* PhD student: [Lorena Figueiredo](https://www.uib.no/personer/Lorena.Figueiredo)
 
 * Statistician: [Jan Bulla](https://www.uib.no/personer/Jan.Bulla)
 
-**Collaborations with** [Anna Kuznetsova](https://github.com/kuzanna2016), [Anastasiia Chizhikova](https://orcid.org/0000-0002-5091-7664), [Anara Sandygulova](https://research.nu.edu.kz/en/persons/anara-sandygulova), [Medet Mukushev](https://scholar.google.de/citations?user=HPTthwYAAAAJ&hl=en), Alfarabi Imashev, Anželika Teresė.
+**Collaborations with** [Anna Kuznetsova](https://github.com/kuzanna2016), [Marloes Oomen](https://www.uva.nl/en/profile/o/o/m.oomen2/m.oomen2.html), [Roland Pfau](https://www.uva.nl/en/profile/p/f/r.pfau/r.pfau.html), [Connie de Vos](https://research.tilburguniversity.edu/en/persons/connie-de-vos), [Josefina Safar](https://www.tilburguniversity.edu/staff/j-safar), [Ari Price](https://ari-price.com/), [Anastasiia Chizhikova](https://orcid.org/0000-0002-5091-7664), [Anara Sandygulova](https://research.nu.edu.kz/en/persons/anara-sandygulova), [Medet Mukushev](https://scholar.google.de/citations?user=HPTthwYAAAAJ&hl=en), Alfarabi Imashev, Anželika Teresė.
 
 <br>
 
-# Output
+# Output 
+
+Kuznetsova, A. & V. Kimmelman. (2024). Testing MediaPipe Holistic for Linguistic Analysis of Nonmanual Markers in Sign Languages. arXiv. http://arxiv.org/abs/2403.10367. (open access)
+
+* *We tested whether MediaPipe 3D reconstructed model of the face is distorted in the presense of head tilts (and compare it to the OpenFace 3D reconstructed model). It turns out that both models are substantially distorted in the presence of vertical head tilts (pitches), which makes it impossible to use eyebrow distance measurements from these models without additional corrections.*
+
+![](/img/meanInnerClose.pdf)
+
+
 
 Kimmelman, V. & A. Teresė (2023). Analyzing Literary Texts in Lithuanian Sign Language with
 Computer Vision: A Proof of Concept. In R. Galimullin & S. Touileb. CEUR Workshop Proceedings
