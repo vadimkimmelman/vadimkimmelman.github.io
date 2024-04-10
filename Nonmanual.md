@@ -44,11 +44,31 @@ Finally, the established typology of formal properties of nonmanuals in the five
 
 # Output 
 
+Kimmelman, V., M. Oomen & R. Pfau (2024) Headshakes in NGT: Relation between Phonetic Properties & Linguistic Functions *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 headshake in NGT LREC.pdf) 
+
+* *We use OpenFace to measure head rotation during headshakes expressing negation in NGT (Sign Language of the Netherlands). We find that some of the phonetic/kinetic measures of headshakes correlate with their linguistic functions.* 
+
+![](/img/peaktest.png)
+
+
+Kimmelman, V., A. Price, J. Safar, C. de Vos & J. Bulla (2024) Nonmanual Marking of Questions in Balinese Homesign Interactions: a Computer-Vision Assisted Analysis. *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 head tilt homesigners LREC.pdf) 
+
+* *We look at nonmanual marking of questions in 5 deaf homesigners from Bali. It turns out that polar questions and non-polar questions are marked by opposite directions of head movements, and this is consistent across homesigners. The analysis is based on a combination of manual annotation and extracting measurements of head tilt (pitch) with OpenFace.* 
+
+![](/img/HSO1.png)
+![](/img/poseRxToQ.png)
+
+Susman, M. & V. Kimmelman. (2024) Eye Blink Detection in Sign Language Data Using CNNs and
+Rule-Based Methods  *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Susman Kimmelman 2024 eyeblinks LSF LREC.pdf) 
+
+* *Eye blinks are an important prosodic markers across sign languages. However, cross-linguistic research on these markers is almost non-existent. In order to enable cross-linguistic comparison, we develop and test two methods of automatic detection of eyeblinks. Both methods produce promising results.* 
+
+
 Kuznetsova, A. & V. Kimmelman. (2024). Testing MediaPipe Holistic for Linguistic Analysis of Nonmanual Markers in Sign Languages. arXiv. http://arxiv.org/abs/2403.10367. (open access)
 
 * *We tested whether MediaPipe 3D reconstructed model of the face is distorted in the presense of head tilts (and compare it to the OpenFace 3D reconstructed model). It turns out that both models are substantially distorted in the presence of vertical head tilts (pitches), which makes it impossible to use eyebrow distance measurements from these models without additional corrections.*
 
-![](/img/meanInnerClose.pdf)
+![](/img/MPcloseInner.png)
 
 
 
