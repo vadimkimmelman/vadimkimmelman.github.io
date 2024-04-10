@@ -57,7 +57,7 @@ Kimmelman, V., A. Price, J. Safar, C. de Vos & J. Bulla (2024) Nonmanual Marking
 
 * *We look at nonmanual marking of questions in 5 deaf homesigners from Bali. It turns out that polar questions and non-polar questions are marked by opposite directions of head movements, and this is consistent across homesigners. The analysis is based on a combination of manual annotation and extracting measurements of head tilt (pitch) with OpenFace.* 
 
-![](/img/HSO1.png)
+![](/img/HS01.png)
 ![](/img/poseRxToQ.png)
 
 Susman, M. & V. Kimmelman. (2024) Eye Blink Detection in Sign Language Data Using CNNs and
