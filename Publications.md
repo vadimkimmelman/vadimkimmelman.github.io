@@ -6,14 +6,14 @@ permalink: /publications/
 
 # 2024
 
-Kimmelman, V., M. Oomen & R. Pfau (2024) Headshakes in NGT: Relation between Phonetic Properties & Linguistic Functions *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 headshake in NGT LREC.pdf) 
+Kimmelman, V., M. Oomen & R. Pfau (2024) Headshakes in NGT: Relation between Phonetic Properties & Linguistic Functions *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 headshake in NGT LREC.pdf) <https://www.sign-lang.uni-hamburg.de/lrec/pub/24008.html>
 
 
-Kimmelman, V., A. Price, J. Safar, C. de Vos & J. Bulla (2024) Nonmanual Marking of Questions in Balinese Homesign Interactions: a Computer-Vision Assisted Analysis. *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 head tilt homesigners LREC.pdf) 
+Kimmelman, V., A. Price, J. Safar, C. de Vos & J. Bulla (2024) Nonmanual Marking of Questions in Balinese Homesign Interactions: a Computer-Vision Assisted Analysis. *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 head tilt homesigners LREC.pdf) <https://www.sign-lang.uni-hamburg.de/lrec/pub/24009.html>
 
 
 Susman, M. & V. Kimmelman. (2024) Eye Blink Detection in Sign Language Data Using CNNs and
-Rule-Based Methods  *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Susman Kimmelman 2024 eyeblinks LSF LREC.pdf) 
+Rule-Based Methods  *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Susman Kimmelman 2024 eyeblinks LSF LREC.pdf) <https://www.sign-lang.uni-hamburg.de/lrec/pub/24005.html>
 
 
 Kuznetsova, A. & V. Kimmelman. (2024). Testing MediaPipe Holistic for Linguistic Analysis of Nonmanual Markers in Sign Languages. arXiv. http://arxiv.org/abs/2403.10367. (pre-print, open access)
