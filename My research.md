@@ -11,7 +11,7 @@ In 2023-2027 my main research focus is the ERC-StG project NONMANUAL. Read more 
 
 # Whole-entity classifiers: a multiperspective approach
 
-Whole-entity classifiers are meaningful handshapes that are used in signs describing motion and location in various sign languages. The phenomenon of classifiers lies on the intersection between language and gesture, and its properties have caused a lot of controversy in the field of sign linguistics. In this project, running in 2023 and 2023, my collaborators and me  look at classifiers in several sign languages, both at their structure and meaning, and apply different frameworks and perspectives to reach a better understanding. 
+Whole-entity classifiers are meaningful handshapes that are used in signs describing motion and location in various sign languages. The phenomenon of classifiers lies on the intersection between language and gesture, and its properties have caused a lot of controversy in the field of sign linguistics. In this project, running in 2022 and 2023, my collaborators and me  look at classifiers in several sign languages, both at their structure and meaning, and apply different frameworks and perspectives to reach a better understanding. 
 
 ![](/img/WEcl.png)
 
@@ -21,6 +21,8 @@ Whole-entity classifiers are meaningful handshapes that are used in signs descri
 Collaboration with: [Giorgia Zorzi](https://giorgiazorzi.com/), [Pia Simper-Allen](https://www.su.se/english/profiles/simper-1.182753), [Jenia Khrsitoforova](https://www.uva.nl/en/profile/k/h/e.khristoforova/e.khristoforova.html), [Jacopo Romoli](https://www.jacoporomoli.com/), [Cornelia Loos](https://scholar.google.de/citations?user=J_1b7ZQAAAAJ&hl=en), [Calle Börstell](https://borstell.github.io/), [Ben Anible](https://benjaminanible.com/), [Beyza Sumer](https://beyzasumer.com/)
 
 This project is funded by a Young CAS Fellowship from [Centre for Advanced Study](https://cas.oslo.no/), Oslo, Norway.
+
+The project resulted in a publication of a Special Issue of *Open Linguistics*, with several papers by project members and external participants, please check it out here: <https://www.degruyterbrill.com/journal/key/opli/11/1/html> (in open access). 
 
 <br>
 
