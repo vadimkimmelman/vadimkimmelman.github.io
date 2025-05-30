@@ -4,6 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
+# 2025
+
+Kimmelman, V., & Khristoforova, E. (2025). Classifier handshape choice in Russian Sign Language and Sign Language of the Netherlands. Open Linguistics, 11(1), 1–19. <https://doi.org/10.1515/opli-2025-0047> (open access)
+
+Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis. 2024 International Conference on IT and Industrial Technologies (ICIT), 1–6. <https://doi.org/10.1109/ICIT63607.2024.10859486> Pre-print: <https://osf.io/z9na7_v1>
+
+
 # 2024
 
 Kimmelman, V., M. Oomen & R. Pfau (2024) Headshakes in NGT: Relation between Phonetic Properties & Linguistic Functions *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 headshake in NGT LREC.pdf) <https://www.sign-lang.uni-hamburg.de/lrec/pub/24008.html>
@@ -17,8 +24,6 @@ Rule-Based Methods  *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Susman Kimmel
 
 
 Kuznetsova, A. & V. Kimmelman. (2024). Testing MediaPipe Holistic for Linguistic Analysis of Nonmanual Markers in Sign Languages. arXiv. http://arxiv.org/abs/2403.10367. (pre-print, open access)
-
-
 
 # 2023 
 
