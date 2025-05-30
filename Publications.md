@@ -6,9 +6,9 @@ permalink: /publications/
 
 # 2025
 
-Kimmelman, V., & Khristoforova, E. (2025). Classifier handshape choice in Russian Sign Language and Sign Language of the Netherlands. Open Linguistics, 11(1), 1–19. <https://doi.org/10.1515/opli-2025-0047> (open access)
+Kimmelman, V., & Khristoforova, E. (2025). Classifier handshape choice in Russian Sign Language and Sign Language of the Netherlands. *Open Linguistics*, 11(1), 1–19. <https://doi.org/10.1515/opli-2025-0047> (open access)
 
-Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis. 2024 International Conference on IT and Industrial Technologies (ICIT), 1–6. <https://doi.org/10.1109/ICIT63607.2024.10859486> Pre-print: <https://osf.io/z9na7_v1>
+Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis. *2024 International Conference on IT and Industrial Technologies (ICIT)*, 1–6. <https://doi.org/10.1109/ICIT63607.2024.10859486> Pre-print: <https://osf.io/z9na7_v1>
 
 
 # 2024
