@@ -93,7 +93,7 @@ Another interesting domain of inquiry that has barely been studied is how quanti
 
 Sign languages use a lot of signs that can be considered metaphoric. Together with Maria Kyuseva, Yana Lomakina, and Daria Perova, I analyzed verbs of cognition and emotions in Russian Sign Language to describe metaphoric mechanism found in these signs. We claim that these mechanisms have direct parallels in spoken languages. Read a pre-final version of our paper here. 
 
-With Anna Klezovich and George Moroz, we created a database and website of iconic patterns in nineteen sign languages and seven semantic fields in order to systematically study iconicity. The website can be found [here](https://sl-iconicity.shinyapps.io/iconicity_patterns/), and read our paper about it [here](\papers/Kimmelman Klezovich Moroz 2018 IPSL.pdf). 
+With Anna Klezovich and George Moroz, we created a database and website of iconic patterns in nineteen sign languages and seven semantic fields in order to systematically study iconicity. The website can be found [here](https://sl-iconicity.shinyapps.io/iconicity_patterns/), and read our paper about it [here](\papers/Kimmelman Klezovich Moroz 2018 IPSL.pdf). UPD: unfortunately, the website is no longer available, but the paper and the whole annotated table is still accessible. 
 
 ![](/img/iconicity.png)
 
