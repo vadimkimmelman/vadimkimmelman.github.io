@@ -45,6 +45,11 @@ Finally, the established typology of formal properties of nonmanuals in the five
 <br>
 
 # Project publications 
+Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis. 2024 International Conference on IT and Industrial Technologies (ICIT), 1–6. <https://doi.org/10.1109/ICIT63607.2024.10859486> Pre-print: <https://osf.io/z9na7_v1>
+
+*We tested three head pose estimation solutions against MoCap data of Finnish Sign Language in order to evaluate their reliability and precision in head pose estimation. The results are quite good for yaw estimation, but worse for pitch and roll estimation*
+
+![](/img/headpose.png)
 
 Kimmelman, V., M. Oomen & R. Pfau (2024) Headshakes in NGT: Relation between Phonetic Properties & Linguistic Functions *Proceedings of LREC-SL 2024*. [[pdf]](\papers/Kimmelman et al 2024 headshake in NGT LREC.pdf) 
 
