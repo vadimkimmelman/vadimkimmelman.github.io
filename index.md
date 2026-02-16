@@ -35,4 +35,4 @@ On this website, you can find a description of my research projects, and my pres
 
 # CV
 
-Download my [CV](cv kimmelman.pdf) here (version 07.2023). 
+Download my [CV](cv kimmelman.pdf) here (version 02.2026). 
