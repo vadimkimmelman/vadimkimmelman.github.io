@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+# 2026
+
+Power, J. M., Kimmelman, V., Nanitashvili, E., & Makharoblidze, T. (2026). Sign languages of the Soviet Union: A comparison of Georgian, Russian, and Tajik Sign Languages. *Open Linguistics*, 12(1), 20250077. <https://doi.org/10.1515/opli-2025-0077>
+
+
 # 2025
 
 Kimmelman, V., & Khristoforova, E. (2025). Classifier handshape choice in Russian Sign Language and Sign Language of the Netherlands. *Open Linguistics*, 11(1), 1–19. <https://doi.org/10.1515/opli-2025-0047> (open access)
