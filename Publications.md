@@ -6,6 +6,8 @@ permalink: /publications/
 
 # 2026
 
+Bulla, J., & Kimmelman, V. (2026). Processing Kinematics of Nonmanual Markers in R. In E. Efthimiou, S.-E. Fotinea, T. Hanke, J. A. Hochgesang, J. Mesch, & M. Schulder (Eds.), *Proceedings of the LREC2026 12th Workshop on the Representation and Processing of Sign Languages: Language in Motion* (pp. 61–70). European Language Resources Association (ELRA). <https://www.sign-lang.uni-hamburg.de/lrec/pub/26021.html>
+
 Power, J. M., Kimmelman, V., Nanitashvili, E., & Makharoblidze, T. (2026). Sign languages of the Soviet Union: A comparison of Georgian, Russian, and Tajik Sign Languages. *Open Linguistics*, 12(1), 20250077. <https://doi.org/10.1515/opli-2025-0077>
 
 
