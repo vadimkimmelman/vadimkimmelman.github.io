@@ -38,13 +38,19 @@ Finally, the established typology of formal properties of nonmanuals in the five
 
 * Statistician: [Jan Bulla](https://www.uib.no/personer/Jan.Bulla) 
 
-* Research Assistants: Laurence Crettenand
+* Research Assistants: Laurence Crettenand, Carla Miquel Blasco, Maren Sørhaug, Dorcas Muhombo Mihio
 
 **Collaborations with** [Anna Kuznetsova](https://github.com/kuzanna2016), [Marloes Oomen](https://www.uva.nl/en/profile/o/o/m.oomen2/m.oomen2.html), [Roland Pfau](https://www.uva.nl/en/profile/p/f/r.pfau/r.pfau.html), [Connie de Vos](https://research.tilburguniversity.edu/en/persons/connie-de-vos), [Josefina Safar](https://www.tilburguniversity.edu/staff/j-safar), [Ari Price](https://ari-price.com/), [Anastasiia Chizhikova](https://orcid.org/0000-0002-5091-7664), [Anara Sandygulova](https://research.nu.edu.kz/en/persons/anara-sandygulova), [Medet Mukushev](https://scholar.google.de/citations?user=HPTthwYAAAAJ&hl=en), Alfarabi Imashev, Anželika Teresė.
 
 <br>
 
 # Project publications 
+Bulla, J., & Kimmelman, V. (2026). Processing Kinematics of Nonmanual Markers in R. In E. Efthimiou, S.-E. Fotinea, T. Hanke, J. A. Hochgesang, J. Mesch, & M. Schulder (Eds.), Proceedings of the LREC2026 12th Workshop on the Representation and Processing of Sign Languages: Language in Motion (pp. 61–70). European Language Resources Association (ELRA). <https://www.sign-lang.uni-hamburg.de/lrec/pub/26021.html>
+*We developed an approach to process computer-vision based measurements of nonmanual markers in R, including smoothing, peak detection, and calculation of various kinematic measures.*
+
+![](/img/lrec_example_Libras.png)
+
+
 Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis. 2024 International Conference on IT and Industrial Technologies (ICIT), 1–6. <https://doi.org/10.1109/ICIT63607.2024.10859486> Pre-print: <https://osf.io/z9na7_v1>
 
 *We tested three head pose estimation solutions against MoCap data of Finnish Sign Language in order to evaluate their reliability and precision in head pose estimation. The results are quite good for yaw estimation, but worse for pitch and roll estimation*
