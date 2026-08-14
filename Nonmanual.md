@@ -46,10 +46,14 @@ Finally, the established typology of formal properties of nonmanuals in the five
 
 # Project publications 
 Bulla, J., & Kimmelman, V. (2026). Processing Kinematics of Nonmanual Markers in R. In E. Efthimiou, S.-E. Fotinea, T. Hanke, J. A. Hochgesang, J. Mesch, & M. Schulder (Eds.), Proceedings of the LREC2026 12th Workshop on the Representation and Processing of Sign Languages: Language in Motion (pp. 61–70). European Language Resources Association (ELRA). <https://www.sign-lang.uni-hamburg.de/lrec/pub/26021.html>
+
 *We developed an approach to process computer-vision based measurements of nonmanual markers in R, including smoothing, peak detection, and calculation of various kinematic measures.*
 
 ![](/img/lrec_example_Libras.png)
 
+Susman, M., C.M. Blasco, and J. Bulla. 2026. Comparing Computer Vision Instruments for Eye Blink Analysis. In E. Efthimiou, S.-E. Fotinea, T. Hanke, J. A. Hochgesang, J. Mesch, & M. Schulder (Eds.), Proceedings of the LREC2026 12th Workshop on the Representation and Processing of Sign Languages: Language in Motion (pp. 459–467). European Language Resources Association (ELRA). <https://aclanthology.org/2026.signlang-1.47/> 
+
+*We compared four tools for analyzing blink velocity and amplitude, examining how MediaPipe, OpenFace, InsightFace, and 3DDFA compare in terms of blink analysis. We found both similarities and differences between the instruments. The discrepancies highlight methodological biases that can distort linguistic interpretations.*
 
 Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis. 2024 International Conference on IT and Industrial Technologies (ICIT), 1–6. <https://doi.org/10.1109/ICIT63607.2024.10859486> Pre-print: <https://osf.io/z9na7_v1>
 
