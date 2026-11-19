@@ -46,9 +46,18 @@ Finally, the established typology of formal properties of nonmanuals in the five
 
 # Project publications 
 
+Kimmelman, V., Bauer, A., Börstell, C., Bulla, J., Sargano, A. B., Crettenand, L., Figueiredo, L., Kuder, A., Lutzenberger, H., Mihio, D., Oomen, M., & Pfau, R. (2026). Kinematics of Negative Headshake in Seven Sign Languages. Open Mind, 10, 1636–1677. https://doi.org/10.1162/OPMI.a.394
+
+* *We analyzed kinematics (duration, amplitude and speed) of negative headshakes in seven typologically and geographically diverse sign languages, using corpus data and computer vision tools. We found that headshake kinematics varies across languages and functions, and shows different internal dynamics across languages. This study also showcases a pipeline for using computer vision tools to analyze nonmanual kinematics.*
+
+![](/img/headshake_measures.png)
+![](/img/predicted_amplitude.png)
+
+
+
 Sargano, A. B., Blasco, C. M., Susman, M., Börstell, C., & Kimmelman, V. (2026). BlinkFusionNet: Gated multimodal fusion for robust blink event detection in sign language corpora. Computer Vision and Image Understanding, 104978. https://doi.org/10.1016/j.cviu.2026.104978
 
-* *We developed an approach to automatically detect eye blinks in sign language videos. This approach is developed and tested on videos from sign language corproa, and it works better than existing approaches to blink detection.*
+* *We developed an approach to automatically detect eye blinks in sign language videos. This approach is developed and tested on videos from sign language corproa, and it works better than existing approaches to blink detection. The software is freely available for anyone to use.*
 
 ![](/img/blinkfusionnet.jpg)
 
