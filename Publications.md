@@ -6,6 +6,10 @@ permalink: /publications/
 
 # 2026
 
+Kimmelman, V., Bauer, A., Börstell, C., Bulla, J., Sargano, A. B., Crettenand, L., Figueiredo, L., Kuder, A., Lutzenberger, H., Mihio, D., Oomen, M., & Pfau, R. (2026). Kinematics of Negative Headshake in Seven Sign Languages. *Open Mind, 10*, 1636–1677. https://doi.org/10.1162/OPMI.a.394
+
+Sargano, A. B., Blasco, C. M., Susman, M., Börstell, C., & Kimmelman, V. (2026). BlinkFusionNet: Gated multimodal fusion for robust blink event detection in sign language corpora. *Computer Vision and Image Understanding*, 104978. https://doi.org/10.1016/j.cviu.2026.104978
+
 Bulla, J., & Kimmelman, V. (2026). Processing Kinematics of Nonmanual Markers in R. In E. Efthimiou, S.-E. Fotinea, T. Hanke, J. A. Hochgesang, J. Mesch, & M. Schulder (Eds.), *Proceedings of the LREC2026 12th Workshop on the Representation and Processing of Sign Languages: Language in Motion* (pp. 61–70). European Language Resources Association (ELRA). <https://www.sign-lang.uni-hamburg.de/lrec/pub/26021.html>
 
 Power, J. M., Kimmelman, V., Nanitashvili, E., & Makharoblidze, T. (2026). Sign languages of the Soviet Union: A comparison of Georgian, Russian, and Tajik Sign Languages. *Open Linguistics*, 12(1), 20250077. <https://doi.org/10.1515/opli-2025-0077>
